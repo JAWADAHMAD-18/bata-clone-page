@@ -672,3 +672,18 @@ input:focus {
     z-index: 2100;
   }
 }
+.footer{
+    width: 100%;
+    height: 5rem;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin-top: 2rem;
+}
+.copyright{
+    font-size: larger;
+    font-weight: 900;
+    text-align: center;
+}
